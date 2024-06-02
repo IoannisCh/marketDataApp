@@ -29,7 +29,6 @@ app.layout = html.Div(children=[
     [dash.dependencies.State('stock-symbol', 'value')]
 )
 
-import requests
 
 def get_market_data(symbol):
     api_key = 'YOUR_API_KEY'

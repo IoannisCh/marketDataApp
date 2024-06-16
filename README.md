@@ -1,1 +1,3 @@
-# Market data application for learning
+# Market data application
+
+This is an application created for learning purposes
